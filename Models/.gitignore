@@ -1,0 +1,3 @@
+#Ignore OldVersion and lockfiles from Autodesk Inventor
+**/OldVersions/
+**/lockfile.lck
