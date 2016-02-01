@@ -1,0 +1,40 @@
+Autodesk Inventor Files
+/Models/year/type
+
+types:
+Assemblies
+Drawings
+Parts
+
+/Models/year/Assemblies/project
+
+projects:
+Robot, FieldElements, etc
+
+Create assemblies of individual systems: ie, chassis, shooter, etc.
+save individual systems as system.xxx. Save the complete assembly as complete.xxx. If multiple systems are assembled together, but it is not the complete assembly save as system1_system2.xxx. Please use alphabetical order.
+
+Models/year/Drawings/project
+
+projects:
+Robot, FieldElements, etc
+
+Give drawings descriptive names in the format modelname_view.xxx. ie, ShooterRail_DimensionView.xxx, ShooterAssembly_SectionView.xxx, CompleteAssembly_Topview.xxx. 
+
+Models/year/Parts/project/system
+
+projects:
+Robot, FieldElements, etc
+
+system:
+Shooter, Chassis, etc
+
+Give parts a descriptive name: ie ShooterRail.xxx, DriveMotor.xxx, OuterFrameRight.xxx
+
+Special Folder:
+
+Models/year/AndyMark
+Holds parts modeled by AndyMark. Do not add, delete or overwrite these files.
+
+Programming files:
+tbd

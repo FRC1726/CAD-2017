@@ -1,0 +1,31 @@
+1. Sign up for github.com.
+
+2. Have a mentor or leader add you to the NERDS repository.
+
+3.	Download git:
+
+	https://git-scm.com/download
+
+4.	Install using default install options.
+
+5.	Open the git-bash program. It should bring up a terminal.
+
+6.	Navigate to the directory you want to save your files in. Use the cd command to change directories. For example if you wanted to save your file in "Documents" you would type cd ~/Documents.
+
+7. Clone the git repository with git clone https://www.github.com/FRC1726/Nerds_1726.git
+
+8. Create a new branch to save your work into. Type git checkout -b <branch>.
+
+9. To add files to a commit type git add '</path/to/file>'
+
+10. Create a commit. Type git commit -m "<message>". Make sure your message explains what work was included with the commit.
+
+11. Once you are done for the day push your branch to github. Type git push origin <branch>
+
+12. Inform a mentor or leader when you are finished and your work has been pushed to github. The mentor or leader will take care of merging the work into the master branch.
+
+Good tutorials can be found at:
+https://www.atlassian.com/git/
+
+Documentation on git can be found at:
+https://git-scm.com/
